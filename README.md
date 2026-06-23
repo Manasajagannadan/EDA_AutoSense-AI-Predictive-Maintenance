@@ -8,11 +8,7 @@
 
 AutoSense AI is an end-to-end Machine Learning application that predicts machine failures before they occur.
 
-
-
 The project includes:
-
-
 
 \- Data Cleaning \& EDA
 
@@ -34,11 +30,7 @@ The project includes:
 
 \- Streamlit Dashboard
 
-
-
-\## Tech Stack
-
-
+## Tech Stack
 
 \- Python
 
@@ -57,10 +49,7 @@ The project includes:
 \- Streamlit
 
 
-
-\## Project Structure
-
-
+## Project Structure
 
 ```text
 
