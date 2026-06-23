@@ -1,6 +1,10 @@
 import joblib
+import os
 
-model = joblib.load("D:/DL_ML_AI_DS/AI_2026/EDA_Project/models/best_model.pkl")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_PATH = os.path.join(BASE_DIR, "models", "best_model.pkl")
+
+model = joblib.load(MODEL_PATH)
 
 def load_model():
     return model
