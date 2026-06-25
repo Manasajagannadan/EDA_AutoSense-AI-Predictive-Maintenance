@@ -67,9 +67,9 @@ if st.sidebar.button("Predict Failure"):
     try:
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://autosense-ai-api.onrender.com/predict",
             json=payload,
-            timeout=10
+            timeout=30
         )
 
         response.raise_for_status()
