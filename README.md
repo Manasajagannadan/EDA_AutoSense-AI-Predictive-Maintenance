@@ -1063,32 +1063,6 @@ Benefits:
 
 ---
 
-# 📸 Application Screenshots
-
-## 🏠 Home Page
-
-> *(Add Screenshot Here)*
-
----
-
-## ✅ Healthy Machine Prediction
-
-> *(Add Screenshot Here)*
-
----
-
-## 🚨 Critical Failure Prediction
-
-> *(Add Screenshot Here)*
-
----
-
-## 📖 Swagger API Documentation
-
-> *(Add Screenshot Here)*
-
----
-
 # 🔧 Troubleshooting
 
 ## Problem
@@ -1458,7 +1432,19 @@ https://github.com/Manasajagannadan
 
 **LinkedIn**
 
-> *(Add your LinkedIn profile URL here.)*
+https://www.linkedin.com/in/manasa-jagannadan-aa11b0179/
+
+**LinkedIn (AITechWorld)**
+
+https://www.linkedin.com/company/135205287/admin/dashboard/
+
+**YouTube**
+
+https://www.youtube.com/@aitechworld8367
+
+**Instagram**
+
+https://www.instagram.com/aitechworld1313/
 
 ---
 
