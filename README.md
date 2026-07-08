@@ -284,26 +284,6 @@ The objective of this project is to predict machine failures before they occur, 
 
 ---
 
-# 📸 Application Preview
-
-> **Home Page**
->
-> *(Add Screenshot Here)*
-
----
-
-> **Healthy Machine Prediction**
->
-> *(Add Screenshot Here)*
-
----
-
-> **Critical Failure Prediction**
->
-> *(Add Screenshot Here)*
-
----
-
 # 📑 What's Next?
 
 The next section covers:
